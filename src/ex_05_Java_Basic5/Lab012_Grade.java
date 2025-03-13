@@ -10,7 +10,7 @@ public class Lab012_Grade {
          * D: 60-69
          * F: 0-59
          */
-        int marks = 45;
+        int marks = 98;
 
         // Using ternary operator for grade assignment
         String grade = (marks >= 90) ? "A" :
