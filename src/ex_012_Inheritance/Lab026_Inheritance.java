@@ -1,4 +1,4 @@
-package Lab012_Inheritance;
+package ex_012_Inheritance;
 
 public class Lab026_Inheritance {
 

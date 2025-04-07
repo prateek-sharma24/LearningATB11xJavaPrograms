@@ -1,4 +1,4 @@
-package Lab012_Inheritance.multiple_inheritance;
+package ex_012_Inheritance.multiple_inheritance;
 
 public class Mother {
     void money()

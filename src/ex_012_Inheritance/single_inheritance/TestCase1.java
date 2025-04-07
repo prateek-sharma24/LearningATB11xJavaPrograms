@@ -1,4 +1,4 @@
-package Lab012_Inheritance.single_inheritance;
+package ex_012_Inheritance.single_inheritance;
 
 public class TestCase1 extends Common_File {
     void runTC1()

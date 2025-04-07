@@ -1,4 +1,4 @@
-package Lab012_Inheritance.Hybrid_Inheritance;
+package ex_012_Inheritance.Hybrid_Inheritance;
 
 public class Lab030_hybrid {
     //not possible by using classes

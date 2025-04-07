@@ -1,4 +1,4 @@
-package Lab012_Inheritance.multilevel_inheritance;
+package ex_012_Inheritance.multilevel_inheritance;
 
 
 

@@ -1,4 +1,4 @@
-package Lab012_Inheritance.single_inheritance;
+package ex_012_Inheritance.single_inheritance;
 
 public class Common_File {
     void startBrowser()

@@ -1,4 +1,4 @@
-package Lab012_Inheritance.multilevel_inheritance;
+package ex_012_Inheritance.multilevel_inheritance;
 
 public class Lab028_Multi_level {
     public static void main(String[] args) {

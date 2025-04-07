@@ -1,4 +1,4 @@
-package Lab012_Inheritance.hierachical;
+package ex_012_Inheritance.hierachical;
 
 
 

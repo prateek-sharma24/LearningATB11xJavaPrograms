@@ -1,6 +1,6 @@
-package Lab012_Inheritance.multiple_inheritance;
+package ex_012_Inheritance.multiple_inheritance;
 
-import Lab012_Inheritance.multilevel_inheritance.GrandFather;
+import ex_012_Inheritance.multilevel_inheritance.GrandFather;
 
 public class father extends GrandFather {
     void money()
